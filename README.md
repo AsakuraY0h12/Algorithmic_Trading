@@ -1,7 +1,7 @@
 # Algorithmic_Trading
+This repository contains Python code implementing a comprehensive algorithmic trading strategy that uses machine learning and quantitative analysis techniques. The strategy focuses on the S&P 500 companies, leveraging various financial indicators and factors to inform trading decisions.
 
 ## Algorithmic Trading Using Machine Learning and Quantitative Strategies
-This repository contains Python code implementing a comprehensive algorithmic trading strategy that uses machine learning and quantitative analysis techniques. The strategy focuses on the S&P 500 companies, leveraging various financial indicators and factors to inform trading decisions.
 
 #### Overview
 The code is structured to cover the entire process of algorithmic trading strategy development, from data acquisition to portfolio optimization and backtesting. Here's a breakdown of the process:
